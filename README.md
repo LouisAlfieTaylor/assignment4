@@ -13,7 +13,7 @@ A task management application built with Kivy and MySQL. Improves code quality a
 
 1. Clone the Repository
   
-   git clone https://github.com/LouisAlfieTaylor/assignment4-tasklist.git
+   git clone https://github.com/LouisAlfieTaylor/assignment4.git
    cd assignment4-tasklist
 
 
